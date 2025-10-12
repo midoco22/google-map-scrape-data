@@ -1,0 +1,10 @@
+[project]
+name = "google-map-scrape-data"
+version = "0.1.0"
+description = "Google Map scraping and collecting data about Schools near Raipur,Lakhsimpur,Chottogram"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.3.3",
+    "selenium>=4.36.0",
+]
